@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffeweb", "Coffeweb\Coffeweb.csproj", "{22A7B40F-000E-45B1-B43A-6D5D4481C9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarCapCoffeModel", "StarCapCoffeModel\StarCapCoffeModel.csproj", "{601D7A93-B77C-4F51-A84C-DB8C48CE68D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A7B40F-000E-45B1-B43A-6D5D4481C9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A7B40F-000E-45B1-B43A-6D5D4481C9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A7B40F-000E-45B1-B43A-6D5D4481C9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A7B40F-000E-45B1-B43A-6D5D4481C9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601D7A93-B77C-4F51-A84C-DB8C48CE68D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601D7A93-B77C-4F51-A84C-DB8C48CE68D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601D7A93-B77C-4F51-A84C-DB8C48CE68D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601D7A93-B77C-4F51-A84C-DB8C48CE68D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46B6F0D-CD1B-4AF8-BDDE-D83CB04F02D8}
+	EndGlobalSection
+EndGlobal
