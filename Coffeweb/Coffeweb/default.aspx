@@ -28,7 +28,7 @@
                          <div class="mb-3 ">
                             <label class="form-label" for="TipoRd1">Cafe favorito</label>
                              
-                            <asp:RadioButtonList runat="server" ID="TipoRd1"> 
+                            <asp:RadioButtonList runat="server" ID="TipoRd"> 
                                 <asp:ListItem Value="1" Text="Silver" Selected="True"></asp:ListItem> 
                                 <asp:ListItem Value="2" Text="Gold" ></asp:ListItem>
                                 <asp:ListItem Value="3" Text="Platinum"></asp:ListItem>

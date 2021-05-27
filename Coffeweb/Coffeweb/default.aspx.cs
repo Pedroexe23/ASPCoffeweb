@@ -11,9 +11,15 @@ namespace Coffeweb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            string nombre, tipo, rut, cafe;
             string[] Cafes = { "Moca", "Cappuccino", "Vainilla", "Expresso", "Americano" };
             CafeDd.DataSource = Cafes;
             CafeDd.DataBind();
+            /*
+            nombre = NombreTxt.Text.Trim();
+            rut = RutTxt.Text.Trim();
+            cafe = CafeDd.Text.Trim();
+            tipo = TipoRd.SelectedValue;*/
         }
     }
 }
